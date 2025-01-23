@@ -4,6 +4,7 @@ the reason I like sushi is because it's **refreshing and very filling**. Theres'
 <hr></hr>
 
 ## Places to Order At 
-- Kome Sushi
-- KC Sushi
-- Hy-vee
+1. Hy-vee
+2. Kome Sushi
+3. KC Sushi
+
