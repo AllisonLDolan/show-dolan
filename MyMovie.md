@@ -1,3 +1,3 @@
 # Allison Dolan
 My favorite movie is Spiderman Across the Spider-verse and I think it is a work of art. Every frame is made to be perfect and very stylistic. They literally changed the amount of frames per second they animated the main character to portray that he was one step behind the rest of them until he had his moment and grew into being spiderman. The use of color to potray emotion and certain scenes is also crazy and so amazing to me.
-![alt text](iD8G8wfHs5eL7tMWtQqiEi.jpg)
+![Main Actor](iD8G8wfHs5eL7tMWtQqiEi.jpg)
