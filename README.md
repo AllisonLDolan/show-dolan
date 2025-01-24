@@ -17,4 +17,5 @@ the reason I like sushi is because it's **refreshing and very filling**. Theres'
 
 ## Favorite Quotes
 > "And now that you don't have to be perfect, you can be good." — *John Steinbeck*
+>
 > "It's not selfish to love yourself, take care of yourself, and to make your happiness a priority. It's necessary." — *Mandy Hale*
