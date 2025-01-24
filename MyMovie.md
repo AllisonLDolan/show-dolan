@@ -4,7 +4,7 @@ My favorite movie is Spiderman Across the Spider-verse and I think it is a work 
 <hr></hr>
 
 ## Who Else Could Have Been Miles?
-### | Name | Reason | Age |
+| Name | Reason | Age |
 | --- | --- | ---: |
 | Nadji Jeter | He voices the PS5 game of it | 28 |
 | Jharrel Jerome | He did the variant of Miles in the movie | 27 |
