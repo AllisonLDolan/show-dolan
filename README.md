@@ -12,4 +12,4 @@ the reason I like sushi is because it's **refreshing and very filling**. Theres'
 - Edamame
 - Gyoza
 
-**[page](MyMovie.md)**
+**[Movies](MyMovie.md)**
