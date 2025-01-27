@@ -19,3 +19,14 @@ the reason I like sushi is because it's **refreshing and very filling**. Theres'
 > "And now that you don't have to be perfect, you can be good." — *John Steinbeck*
 >
 > "It's not selfish to love yourself, take care of yourself, and to make your happiness a priority. It's necessary." — *Mandy Hale*
+<hr></hr>
+
+## Code Snippet
+This snippet in Python checks the total memory an object consumes.
+```
+import sys
+
+a = 100;
+print(sys.getsizeof(a)) 
+```
+Code source <https://code.pieces.app/collections/python>
